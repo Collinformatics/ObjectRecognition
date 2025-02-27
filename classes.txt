@@ -1,0 +1,14 @@
+car
+person
+house
+dog
+tench
+goldfish
+shark
+great white shark
+tiger shark
+hammerhead
+electric ray
+stingray
+hen
+ostrich
